@@ -7,3 +7,4 @@ document.querySelector('#header').innerHTML = message
 console.log(message)
 
 //variaveis a seguir
+let conversa = ["vamos jogar?"]
