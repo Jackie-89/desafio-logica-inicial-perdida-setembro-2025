@@ -8,3 +8,4 @@ console.log(message)
 
 //variaveis a seguir
 let conversa = ["vamos jogar?"]
+console
